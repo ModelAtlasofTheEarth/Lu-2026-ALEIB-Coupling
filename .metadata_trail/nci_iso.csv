@@ -1,0 +1,20 @@
+Field,Value
+Title*,A novel ALE scheme with the internal boundary for coupling tectonic and surface processes in geodynamic models
+Dataset version*,
+Abstract*,"Recent advancements in modelling the deformation of the Earth's crust and upper mantle, coupled with surface processes, have significantly deepened our understanding of how the Earth responds to integrated tectonic and erosional forces, which are intricately linked to climate dynamics. This study presents a novel coupling framework within the Arbitrary Lagrangian–Eulerian with Internal Boundary (ALE-IB) scheme, which integrates the geodynamic codes Underworld 2 with the surface process code Badlands. Our innovative approach addresses the limitations of previous Eulerian-based coupling frameworks by maintaining the integrity of internal interfaces and providing precise surface tracking. This ensures accurate representation of material boundaries and enhances the fidelity of simulations involving complex geological processes. We detail the principles underlying the coupling of surface processes with tectonic deformation, leveraging the strengths of the ALE-IB scheme to model free surfaces and moving boundaries effectively. By comparing our model's performance with an Eulerian-based approach, we highlight key differences in structural and dynamic behaviour under varying surface process intensities. This comparison offers valuable insights into the intricate interactions between surface and deep Earth processes. Our findings contribute to a more comprehensive understanding of geomorphological and tectonic evolution, providing a robust framework for future research in geodynamic and climate-related geological studies."
+Topic category*,geoscientificInformation
+Field of research (FOR)*,https://linked.data.gov.au/def/anzsrc-for/2020/370401
+License*,Creative Commons Attribution 4.0 International
+Dataset lineage information*,"In this paper, we present a novel coupling framework that integrates the geodynamic codes Underworld 2 with the surface process code Badlands within the ALE-IB scheme. First, we outline the modelling approach and detail the principles underlying the coupling between surface processes and tectonic deformation. Second, we compare the performance of the coupled model built within this framework to that of an Eulerian-based approach, examining differences in structural and dynamic behaviour under varying surface process intensities."
+Dataset format*,
+Dataset status,completed
+Maintenance frequency*,as needed
+Temporal extents* (if applicable),
+Spatial extents* (if applicable),
+Owner* (if applicable),
+Credit,
+Supplemental or supporting material,
+Local NCI file path,/g/data/nm08/MATE/Lu-2026-ALEIB-Coupling
+DOI (NCI Internal Field),
+Keyword/s,"ALE, internal boundary, coupling, surface processes"
+Author 1,"Lu, Neng, Unknown, Unknown, https://orcid.org/0000-0001-9424-2315"
